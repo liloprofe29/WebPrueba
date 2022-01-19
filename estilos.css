@@ -1,0 +1,14 @@
+body{
+    text-align:justify;
+    background-color: rgb(186, 216, 241);
+}
+
+
+h1{
+    text-align:center;
+    font-style:italic;
+}
+
+p{
+  text-align:left;
+}

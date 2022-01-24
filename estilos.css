@@ -9,6 +9,10 @@ h1{
     font-style:italic;
 }
 
+h2{
+  color:blue;
+}
+
 p{
   text-align:left;
 }
